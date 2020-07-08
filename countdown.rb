@@ -9,4 +9,4 @@ def countdown(number)
 end
 
 def countdown_with_sleep(1)
-  sleep
+  num_secs = 1
