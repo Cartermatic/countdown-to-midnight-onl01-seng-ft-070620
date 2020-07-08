@@ -9,4 +9,6 @@ def countdown(number)
 end
 
 def countdown_with_sleep(1)
-  num_secs = 1
+  sleep 1
+  until number == 0
+end
